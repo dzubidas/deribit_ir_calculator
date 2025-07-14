@@ -1,0 +1,20 @@
+# Python virtual environment
+bin/
+lib/
+lib64
+include/
+share/
+etc/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sensitive files
+service-account-key.json
+
+# Large image files (optional - you might want to track some)
+*.png
+
+# OS files
+.DS_Store
